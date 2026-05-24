@@ -1,14 +1,17 @@
-# Profile Data & Slicing | Dados de Perfil e Fatiamento
+# Udemy Python Journey
 
-A script focused on string manipulation (slicing) and basic input validation.
-Um script focado em manipulação de strings (fatiamento) e validação básica de entrada.
+This repository is dedicated to storing my programming exercises, challenges, and core projects as I advance from Junior to Senior Software Engineer.
 
-### 🚀 Features / Funcionalidades:
-- *English:* Reverses strings using [::-1], checks for spaces, validates age, and demonstrates index-based selection.
-- *Português:* Inverte strings usando [::-1], verifica espaços, valida maioridade e demonstra o uso de índices.
+## 🚀 Main Projects
 
----
+* **ombudsman_system/**: A robust backend solution designed to handle corporate or public complaints, feature requests, and feedback. (In Development)
 
-## 🛠️ Technologies / Tecnologias:
-- Python 3.x
--
+## 📂 Repository Structure
+
+* `udemy_exercises/`: Core syntax exercises, object-oriented programming (OOP) tasks, and logic challenges (such as custom CPF validation algorithms).
+* `ombudsman_system/`: Main architecture directory for the upcoming production-ready application.
+
+## 🛠️ Tech Stack & Concepts Covered
+
+* **Language:** Python 3
+* **Concepts:** Functional Programming, Higher-Order Functions, Closures, `*args` and `**kwargs` dynamics, Data Validation.
