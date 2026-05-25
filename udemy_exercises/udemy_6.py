@@ -33,4 +33,4 @@ def encontrar_primeiro_duplicado(uma_lista_simples):
 
 for lista in lista_de_inteiros:
     resultado = encontrar_primeiro_duplicado(lista)
-    print(f"Para a lista {lista} -> O primeiro duplicado é: {resultado}")
+    print(f"Para a lista {lista} -> 0 primeiro duplicado é: {resultado}")
